@@ -26,7 +26,7 @@ It ensures the proper availability of tables. It keep track of customers and the
 - Eidt Information (Manager can view and add people or products)
 
 # Process Wise Screenshots
--Home Page
+- ### Home Page
 ![image](https://user-images.githubusercontent.com/85407775/120931687-24734080-c70c-11eb-8902-a0a997f4cfa3.png)
 ![image](https://user-images.githubusercontent.com/85407775/120931699-2b9a4e80-c70c-11eb-8c58-d0ca0fc9c036.png)
 ![image](https://user-images.githubusercontent.com/85407775/120931722-479df000-c70c-11eb-8ee4-8e8c72388b56.png)
@@ -34,15 +34,15 @@ It ensures the proper availability of tables. It keep track of customers and the
 ![image](https://user-images.githubusercontent.com/85407775/120931737-54badf00-c70c-11eb-8bb0-81876cacd816.png)
 ![image](https://user-images.githubusercontent.com/85407775/120931742-5a182980-c70c-11eb-9a2a-8088b3ba495e.png)
 
-- Clicking On Reservation Button
+- ### Clicking On Reservation Button
 ![image](https://user-images.githubusercontent.com/85407775/120931766-7d42d900-c70c-11eb-92d9-9754efd5f3fc.png)
 ![image](https://user-images.githubusercontent.com/85407775/120931774-8633aa80-c70c-11eb-95bd-487aa417b812.png)
 If clicked on Do Not Have Account? It will redirect you to create your account and REGISTER YOURSELF!
 
-- Sign Up Page
+- ### Sign Up Page
 ![image](https://user-images.githubusercontent.com/85407775/120931814-afecd180-c70c-11eb-9062-938eba215db9.png)
 
-- Reservation Page
+- ### Reservation Page
 ![image](https://user-images.githubusercontent.com/85407775/120931855-c561fb80-c70c-11eb-9d0a-f90f011b4cbf.png)
 Pressing the back Button from web page will redirect you to the home page.
 ![image](https://user-images.githubusercontent.com/85407775/120931871-d90d6200-c70c-11eb-8253-594afb66d420.png)
