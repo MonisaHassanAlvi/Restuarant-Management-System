@@ -109,3 +109,23 @@ Clicking on Back Button will redirect you to the manger home page.
 End of Manager Web Page.
 
 ![image](https://user-images.githubusercontent.com/85407775/120932448-36a2ae00-c70f-11eb-8e06-82149dfe1190.png)
+
+- ### Staff Login Page
+![image](https://user-images.githubusercontent.com/85407775/120932558-c9dbe380-c70f-11eb-966b-da7e1c684997.png)
+
+- ### Cashier Web Page
+![image](https://user-images.githubusercontent.com/85407775/120932507-91d4a080-c70f-11eb-8ba4-3775040532a6.png)
+
+Cashier can place the order.
+
+![image](https://user-images.githubusercontent.com/85407775/120932519-9ef18f80-c70f-11eb-8dbe-af563a9e00af.png)
+
+End of Cashier Web Page
+
+![image](https://user-images.githubusercontent.com/85407775/120932582-db24f000-c70f-11eb-97b5-55669e595db6.png)
+
+- ### Staff Login Page
+![image](https://user-images.githubusercontent.com/85407775/120932612-f42da100-c70f-11eb-9834-cb7fd4afcc0f.png)
+
+- ### Delivery Men Web Page
+![image](https://user-images.githubusercontent.com/85407775/120932652-132c3300-c710-11eb-920c-5437436764b5.png)
