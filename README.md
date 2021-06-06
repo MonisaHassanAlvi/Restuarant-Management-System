@@ -70,4 +70,38 @@ Now clicking on Delivery Button
 
 Clicking Next after Desserts will redirect you to the home page.
 
+![image](https://user-images.githubusercontent.com/85407775/120932109-fa228280-c70d-11eb-8230-2b245a5363a3.png)
 
+Clicking At For Staff Button at the top.
+
+- ### Staff Login Page
+![image](https://user-images.githubusercontent.com/85407775/120932151-23431300-c70e-11eb-966b-21dc8ea280a0.png)
+![image](https://user-images.githubusercontent.com/85407775/120932173-3524b600-c70e-11eb-8c99-fc15cd9f05a8.png)
+
+Clicking on Login Button
+- ### Manager Web Page
+Manager can view the products, cashiers, and deliveryman as well as add a cashier and delivery man.
+![image](https://user-images.githubusercontent.com/85407775/120932217-57b6cf00-c70e-11eb-9cf8-3418914f8813.png)
+![image](https://user-images.githubusercontent.com/85407775/120932222-5f767380-c70e-11eb-8afe-b0f4aadb6e27.png)
+![image](https://user-images.githubusercontent.com/85407775/120932231-64d3be00-c70e-11eb-92d0-09e330253692.png)
+
+- ### Clicking on Add Cashier
+![image](https://user-images.githubusercontent.com/85407775/120932265-87fe6d80-c70e-11eb-8923-861ae2f9e1f4.png)
+
+Clicking on ADD
+![image](https://user-images.githubusercontent.com/85407775/120932292-a1071e80-c70e-11eb-88fe-3edb08aa1e1b.png)
+
+Clicking on Back will redirect you to the manager home page and you can see that the new cashier is added.
+![image](https://user-images.githubusercontent.com/85407775/120932303-afedd100-c70e-11eb-9904-a1897d08b333.png)
+![image](https://user-images.githubusercontent.com/85407775/120932384-f6433000-c70e-11eb-90f0-a9ab0a0142fe.png)
+
+- ### Clicking on Add Cashier
+![image](https://user-images.githubusercontent.com/85407775/120932418-1246d180-c70f-11eb-8b91-9fea0ad59bb4.png)
+
+Clicking on ADD Bbutton.
+![image](https://user-images.githubusercontent.com/85407775/120932436-22f74780-c70f-11eb-9574-048229745dfd.png)
+
+Clicking on Back Button will redirect you to the manger home page.
+
+End of Manager Web Page.
+![image](https://user-images.githubusercontent.com/85407775/120932448-36a2ae00-c70f-11eb-8e06-82149dfe1190.png)
