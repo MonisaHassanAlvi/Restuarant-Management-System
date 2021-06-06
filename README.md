@@ -89,19 +89,23 @@ Manager can view the products, cashiers, and deliveryman as well as add a cashie
 ![image](https://user-images.githubusercontent.com/85407775/120932265-87fe6d80-c70e-11eb-8923-861ae2f9e1f4.png)
 
 Clicking on ADD
+
 ![image](https://user-images.githubusercontent.com/85407775/120932292-a1071e80-c70e-11eb-88fe-3edb08aa1e1b.png)
 
 Clicking on Back will redirect you to the manager home page and you can see that the new cashier is added.
+
 ![image](https://user-images.githubusercontent.com/85407775/120932303-afedd100-c70e-11eb-9904-a1897d08b333.png)
 ![image](https://user-images.githubusercontent.com/85407775/120932384-f6433000-c70e-11eb-90f0-a9ab0a0142fe.png)
 
 - ### Clicking on Add Cashier
 ![image](https://user-images.githubusercontent.com/85407775/120932418-1246d180-c70f-11eb-8b91-9fea0ad59bb4.png)
 
-Clicking on ADD Bbutton.
+Clicking on ADD Button.
+
 ![image](https://user-images.githubusercontent.com/85407775/120932436-22f74780-c70f-11eb-9574-048229745dfd.png)
 
 Clicking on Back Button will redirect you to the manger home page.
 
 End of Manager Web Page.
+
 ![image](https://user-images.githubusercontent.com/85407775/120932448-36a2ae00-c70f-11eb-8e06-82149dfe1190.png)
