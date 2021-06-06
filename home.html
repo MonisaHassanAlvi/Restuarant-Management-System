@@ -1,0 +1,406 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="home.master.cs" Inherits="project.home" %>
+
+<!doctype html>
+<form id="form1" runat="server">
+    [if lt IE 7]>
+    <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="">
+    <![endif]
+    [if IE 7]>
+    <html class="no-js lt-ie9 lt-ie8" lang="">
+    <![endif]
+    [if IE 8]>
+    <html class="no-js lt-ie9" lang="">
+    <![endif]
+    [if gt IE 8]>
+    <html class="no-js" lang="">
+    <![endif]
+    <head runat="server">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Food and Restaurant One page Template</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+        <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+        <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">
+        <!--For Plugins external css-->
+        <link href="assets/css/animate/animate.css" rel="stylesheet" />
+        <link href="assets/css/plugins.css" rel="stylesheet" />
+        <!--Theme custom css -->
+        <link href="assets/css/style.css" rel="stylesheet" />
+
+        <!--Theme Responsive css-->
+        <link href="assets/css/responsive.css" rel="stylesheet" />
+
+        <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+
+        <div class='preloader'><div class='loaded'>&nbsp;</div></div>
+        <header id="home" class="navbar-fixed-top">
+            <div class="header_top_menu clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5 col-md-offset-3 col-sm-12 text-right">
+                            <div class="call_us_text">
+                                <a><i class="fa fa-clock-o"></i> Order Foods 24/7</a>
+                                <a><i class="fa fa-phone"></i>0900-78601</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- End navbar-collapse-->
+            <div class="main_menu_bg">
+                <div class="container">
+                    <div class="row">
+                        <nav class="navbar navbar-default">
+                            <div class="container-fluid">
+                                <!-- Brand and toggle get grouped for better mobile display -->
+                                <div class="navbar-header">
+                                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                    <a class="navbar-brand our_logo" href="#"><img src="assets/images/logo.png" alt="" /></a>
+                                </div>
+                                <!-- Collect the nav links, forms, and other content for toggling -->
+                                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                    <ul class="nav navbar-nav navbar-right">
+                                        <!--<li><a href="menu.aspx">Home</a></li>-->
+                                        <li><a href="#abouts">Order</a></li>
+                                        <li><a href="#mobaileapps">Contact Us</a></li>
+                                        <li><a href="stafflogin.aspx" class="booking">For Staff</a></li>
+                                    </ul>
+                                </div><!-- /.navbar-collapse -->
+                            </div><!-- /.container-fluid -->
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </header> <!-- End Header Section -->
+
+        <section id="slider" class="slider">
+            <div class="slider_overlay">
+                <div class="container">
+                    <div class="row">
+                        <div class="main_slider text-center">
+                            <div class="col-md-12">
+                                <div class="main_slider_content wow zoomIn" data-wow-duration="1m">
+                                    <h1>Foody Love</h1>
+                                    <p style="font-family:cursive ">Expect Nothing Less Than Perfect. Foody Love The Best Food Restaurant In Town. </p>
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="abouts" class="abouts">
+            <div class="container">
+                <div class="row">
+                    <div class="abouts_content">
+                        <div class="col-md-6">
+                            <div class="single_abouts_text text-center wow slideInLeft" data-wow-duration="1s">
+                                <img src="assets/images/ab.png" alt="" />
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="single_abouts_text wow slideInRight" data-wow-duration="1s">
+                                <!--<h4>About us</h4>-->
+                                <h3>WE ARE TASTY</h3>
+                                <p>We know you care about the food you eat. That’s why we use ingredients like 100% beef patties with no preservatives, fillers, or additives. And we use a select variety of crisp, quality apples such as Gala and Pink Lady. Take a deep dive into what makes our food delicious. Our food experts are more than just pros at their craft. They are people who care about the food you eat and bring innovation into our kitchens.</p>
+
+                                <a href="deliveryinfo.aspx" class="btn btn-primary">DELIVERY</a>
+                                <a href="orderreservation.aspx" class="btn btn-primary">RESERVATION</a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="features" class="features">
+            <div class="slider_overlay">
+                <div class="container">
+                    <div class="row">
+                        <div class="main_features_content_area  wow fadeIn" data-wow-duration="3s">
+                            <div class="col-md-12">
+                                <div class="main_features_content text-left">
+                                    <div class="col-md-6">
+                                        <div class="single_features_text">
+                                            <h4>Special Recipes</h4>
+                                            <h3>Taste of Precious</h3>
+                                            <p>At Foody’s, we’re making changes based on what we’re hearing from all of you. That’s why we work hard to make precious tasty food with a “less is more” philosophy. But what does that mean for our ingredients? It means we use 100% real beef patties seasoned with just a pinch of salt and pepper. It means our Egg McMuffin® is made with a freshly-cracked egg. And, in the US, our fish filets are made from sustainably-sourced Alaskan Pollock. It means we use real buttermilk in our Buttermilk Crispy Chicken and our Chicken McNuggets® are made with white meat chicken. To put it frankly, it means –The Simpler The Better.</p>
+                                            <!--<a href="" class="btn btn-primary">click here</a>-->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="portfolio" class="portfolio">
+            <div class="container">
+                <div class="row">
+                    <div class="portfolio_content text-center  wow fadeIn" data-wow-duration="5s">
+                        <div class="col-md-12">
+                            <div class="head_title text-center">
+                                <h4>Delightful</h4>
+                                <h3>Experience</h3>
+                            </div>
+                            <div class="main_portfolio_content">
+                                <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
+                                    <img src="assets/images/p1.png" alt="" />
+                                    <div class="portfolio_images_overlay text-center">
+                                        <h6>Beef Walington</h6>
+                                        <%--<p class="product_price">$10</p>--%>
+                                        <!--<a href="" class="btn btn-primary">Click here</a>-->
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
+                                    <img src="assets/images/p2.png" alt="" />
+                                    <div class="portfolio_images_overlay text-center">
+                                        <h6>Black pudding</h6>
+                                        <%--<p class="product_price">$10</p>--%>
+                                        <!--<a href="" class="btn btn-primary">Click here</a>-->
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
+                                    <img src="assets/images/p3.png" alt="" />
+                                    <div class="portfolio_images_overlay text-center">
+                                        <h6>Cauliflower cheese</h6>
+                                        <%--<p class="product_price">$10</p>--%>
+                                        <!--<a href="" class="btn btn-primary">Click here</a>-->
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
+                                    <img src="assets/images/p4.png" alt="" />
+                                    <div class="portfolio_images_overlay text-center">
+                                        <h6>Cumberland sausage</h6>
+                                        <%--<p class="product_price">$10</p>--%>
+                                        <!--<a href="" class="btn btn-primary">Click here</a>-->
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
+                                    <img src="assets/images/p5.png" alt="" />
+                                    <div class="portfolio_images_overlay text-center">
+                                        <h6>Faggots</h6>
+                                        <%--<p class="product_price">$10</p>--%>
+                                        <!--<a href="" class="btn btn-primary">Click here</a>-->
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
+                                    <img src="assets/images/p6.png" alt="" />
+                                    <div class="portfolio_images_overlay text-center">
+                                        <h6>Kippers</h6>
+                                        <%--<p class="product_price">$10</p>--%>
+                                        <!--<a href="" class="btn btn-primary">Click here</a>-->
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
+                                    <img src="assets/images/p7.png" alt="" />
+                                    <div class="portfolio_images_overlay text-center">
+                                        <h6>Natural Cheddar</h6>
+                                        <%--<p class="product_price">$10</p>--%>
+                                        <!--<a href="" class="btn btn-primary">Click here</a>-->
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
+                                    <img src="assets/images/p8.png" alt="" />
+                                    <div class="portfolio_images_overlay text-center">
+                                        <h6>Sweet Onion</h6>
+                                        <%--<p class="product_price">$10</p>--%>
+                                        <!--<a href="" class="btn btn-primary">Click here</a>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="ourPakeg" class="ourPakeg">
+            <div class="container">
+                <div class="main_pakeg_content">
+                    <div class="row">
+                        <div class="head_title text-center">
+                            <h4>Amazing</h4>
+                            <h3>Delicious</h3>
+                        </div>
+
+                        <div class="single_pakeg_one text-right wow rotateInDownRight">
+                            <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4">
+                                <div class="single_pakeg_text">
+                                    <div class="pakeg_title">
+                                        <h4>Dishes</h4>
+                                    </div>
+                                    <ul>
+                                        <asp:ContentPlaceHolder ID="dishes" DataSourceID="SqlDataSource1" runat="server">
+                                            <asp:SqlDataSource ID="SqlDataSource4" runat="server" DataSourceMode="DataReader" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT item.item_name, item.price FROM item INNER JOIN item_and_type ON item.item_id = item_and_type.item_id INNER JOIN itemtype ON item_and_type.itemtype_id = itemtype.itemtype_id WHERE (itemtype.itemtype_name = 'dishes')">
+                                            </asp:SqlDataSource>
+                                        </asp:ContentPlaceHolder>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="single_pakeg_two text-left wow rotateInDownLeft">
+                        <div class="col-md-6 col-sm-8">
+                            <div class="single_pakeg_text">
+                                <div class="pakeg_title">
+                                    <h4>Drinks </h4>
+                                </div>
+                                <ul>
+                                    <asp:ContentPlaceHolder ID="drinks" runat="server">
+                                        <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT item.item_name, item.price FROM item INNER JOIN item_and_type ON item.item_id = item_and_type.item_id INNER JOIN itemtype ON item_and_type.itemtype_id = itemtype.itemtype_id WHERE (itemtype.itemtype_name = 'beverages')" OnSelecting="SqlDataSource2_Selecting"></asp:SqlDataSource>
+                                    </asp:ContentPlaceHolder>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="single_pakeg_three text-left wow rotateInDownRight">
+                        <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4">
+                            <div class="single_pakeg_text">
+                                <div class="pakeg_title">
+                                    <h4>Desserts</h4>
+                                </div>
+
+                                <ul>
+                                    <asp:ContentPlaceHolder ID="desserts" runat="server">
+                                        <asp:SqlDataSource ID="SqlDataSource3" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="showdeserts" SelectCommandType="StoredProcedure" OnSelecting="SqlDataSource3_Selecting"></asp:SqlDataSource>
+                                    </asp:ContentPlaceHolder>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+
+        <section id="mobaileapps" class="mobailapps">
+            <div class="slider_overlay">
+                <div class="container">
+                    <div class="row">
+                        <div class="main_mobail_apps_content wow zoomIn">
+                            <div class="col-md-5 col-sm-12 text-center">
+                                &nbsp;
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="footer_widget" class="footer_widget">
+            <div class="container">
+                <div class="row">
+                    <div class="footer_widget_content text-center">
+                        <div class="col-md-4">
+                            <div class="single_widget wow fadeIn" data-wow-duration="2s">
+                                <h3>Contact Us</h3>
+
+                                <div class="single_widget_info">
+                                    <p>
+                                        112-Legere ancillae vix ne.
+
+                                        <span>Te elit putent propriae eum,</span>
+                                        <span>aliquip nominati</span>
+                                        <span class="phone_email">phone: 0900 786 01</span>
+                                        <span>Email: support@foodylove.com</span>
+                                    </p>
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="single_widget wow fadeIn" data-wow-duration="4s">
+                                <h3>OPEN TIMING</h3>
+
+                                <div class="single_widget_info">
+                                    <p>
+                                        <span class="date_day">Monday To Friday</span>
+                                        <span>8:00am to 10:00pm</span>
+                                        <span>11:00am to 10:00pm</span>
+
+                                        <span class="date_day">Saturday & Sunday</span>
+                                        <span>10:00am to 11:00pm</span>
+                                        <span>11:00am to 12:00pm</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="single_widget wow fadeIn" data-wow-duration="5s">
+                                <h3>&nbsp;</h3>
+
+                                <div class="single_widget_form text-left">
+                                    <div class="form-group">
+                                        &nbsp;
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        <!--Footer-->
+        <footer id="footer" class="footer">
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="copyright wow zoomIn" data-wow-duration="3s">
+                            <p>Made with <i class="fa fa-heart"></i> by Monisa, Rahmeen, Alishbah and Jawad. All Rights Reserved</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <div class="scrollup">
+            <a href="#"><i class="fa fa-chevron-up"></i></a>
+        </div>
+
+
+        <script src="assets/js/vendor/jquery-1.11.2.min.js"></script>
+        <script src="assets/js/vendor/bootstrap.min.js"></script>
+
+        <script src="assets/js/jquery-easing/jquery.easing.1.3.js"></script>
+        <script src="assets/js/wow/wow.min.js"></script>
+        <script src="assets/js/plugins.js"></script>
+        <script src="assets/js/main.js"></script>
+</form>
+</body>
+</html>
+</html>
