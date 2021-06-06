@@ -45,7 +45,9 @@ If clicked on Do Not Have Account? It will redirect you to create your account a
 
 - ### Reservation Page
 ![image](https://user-images.githubusercontent.com/85407775/120931855-c561fb80-c70c-11eb-9d0a-f90f011b4cbf.png)
+
 Pressing the back Button from web page will redirect you to the home page.
+
 ![image](https://user-images.githubusercontent.com/85407775/120931871-d90d6200-c70c-11eb-8253-594afb66d420.png)
 
 Now clicking on Delivery Button
