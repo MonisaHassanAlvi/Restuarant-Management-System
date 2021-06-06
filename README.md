@@ -37,6 +37,7 @@ It ensures the proper availability of tables. It keep track of customers and the
 - ### Clicking On Reservation Button
 ![image](https://user-images.githubusercontent.com/85407775/120931766-7d42d900-c70c-11eb-92d9-9754efd5f3fc.png)
 ![image](https://user-images.githubusercontent.com/85407775/120931774-8633aa80-c70c-11eb-95bd-487aa417b812.png)
+
 If clicked on Do Not Have Account? It will redirect you to create your account and REGISTER YOURSELF!
 
 - ### Sign Up Page
@@ -48,20 +49,20 @@ Pressing the back Button from web page will redirect you to the home page.
 ![image](https://user-images.githubusercontent.com/85407775/120931871-d90d6200-c70c-11eb-8253-594afb66d420.png)
 Now clicking on Delivery Button
 
-- Delivery Page
+- ### Delivery Page
 ![image](https://user-images.githubusercontent.com/85407775/120931888-ef1b2280-c70c-11eb-9e6e-9c5c348ef88f.png)
 
-- Dishes
+- ### Dishes
 ![image](https://user-images.githubusercontent.com/85407775/120931912-0d811e00-c70d-11eb-87c1-84661a6aae38.png)
 ![image](https://user-images.githubusercontent.com/85407775/120931919-15d95900-c70d-11eb-9f44-8ea3dd2ca6fe.png)
 
-- Toppings
+- ### Toppings
 ![image](https://user-images.githubusercontent.com/85407775/120931927-21c51b00-c70d-11eb-8523-2d598df0c03d.png)
 
-- Drinks
+- ### Drinks
 ![image](https://user-images.githubusercontent.com/85407775/120931945-343f5480-c70d-11eb-8bb8-832dd7703164.png)
 
--Desserts
+- ### Desserts
 ![image](https://user-images.githubusercontent.com/85407775/120931954-3dc8bc80-c70d-11eb-9669-f0b65b885681.png)
 Clicking Next after Desserts will redirect you to the home page.
 
